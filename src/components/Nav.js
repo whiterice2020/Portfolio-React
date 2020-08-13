@@ -1,22 +1,26 @@
 import React from "react";
-import Navbar from 'react-bootstrap/Navbar';
+import Navbar from "react-bootstrap/Navbar";
+import { Link } from "react-router-dom";
+
 // import NavDropdown from 'react-bootstrap/Nav';
 // import "../styles/Nav.css";
 
 function Nav() {
   return (
-    // <br></br>
-    <Navbar bg="light" expand="lg">
-  <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-  <Navbar.Toggle aria-controls="basic-navbar-nav" />
-  <Navbar.Collapse id="basic-navbar-nav">
-    <Nav className="mr-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#link">Link</Nav.Link>
-    </Nav>
-    
-  </Navbar.Collapse>
-</Navbar>
+    <nav>
+      <h3>Logo</h3>
+      <ul className="nav-links">
+        <Link to="/about">
+          <li>About</li>
+        </Link>
+        <Link to="/Contact">
+          <li>Contact</li>
+        </Link>
+        <Link to="/Portfolio">
+          <li>Portfolio</li>
+        </Link>
+      </ul>
+    </nav>
   );
 }
 export default Nav;
