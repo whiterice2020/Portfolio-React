@@ -32,7 +32,8 @@
   
   # Images
 
-  ![ImageAltName](./src/components/images/image1.jpg)
+  <!-- ![ImageAltName](./src/components/images/image1.jpg) -->
+  ![PortfolioImage](https://user-images.githubusercontent.com/66220747/90211847-dfb69b80-ddbf-11ea-9d7e-18a0378525e1.jpg)
 
 
   # License
