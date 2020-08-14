@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Nav from "./components/Nav";
+import Styles from "./components/styles.css";
 import {BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 

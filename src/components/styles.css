@@ -1,0 +1,65 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(73, 79, 82);
+    color: white;
+}
+
+.nav-links {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.navLi {
+    color:white
+}
+
+body {
+    background: url('https://images.freeimages.com/images/large-previews/9ef/the-white-texture-1639941.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        
+}
+
+.aboutP {
+    font-style: oblique;
+    font-size: 14pt;
+    justify-content: space-around;
+    text-align: center;
+
+    /* color: cornflowerblue; */
+}
+
+.footerP {
+    font-size: 12pt;
+    /* display: flex; */
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(73, 79, 82);
+    color: white;
+}
+
+.imgMe {
+    float: left;
+    height: 200px;
+    width: 200px;
+    /* padding: 10pt; */
+    margin-bottom: 000px;
+}
+
+.footerContact {
+    color: white;
+}
+
+.portfolioButton {
+    color: white;
+    
+}

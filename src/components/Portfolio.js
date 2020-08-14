@@ -10,7 +10,7 @@ function Portfolio () {
       <h1>Portfolio</h1>
       <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1500673922987-e212871fec22?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80/" />
     <Card.Body>
       <Card.Title>Code Refactor</Card.Title>
       <Card.Text>
@@ -23,7 +23,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1506849041215-e76092bdaa7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1330&q=80/100px160" />
     <Card.Body>
       <Card.Title>My Portfolio GitHub</Card.Title>
       <Card.Text>
@@ -35,7 +35,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1441794016917-7b6933969960?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=1351&q=80/100px160" />
     <Card.Body>
       <Card.Title>Password Generator</Card.Title>
       <Card.Text>
@@ -53,7 +53,7 @@ function Portfolio () {
 <br></br>
 <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80/100px160" />
     <Card.Body>
       <Card.Title>Javascript Quiz Game</Card.Title>
       <Card.Text>
@@ -66,7 +66,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1473800447596-01729482b8eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
       <Card.Title>Daily Planner GitHub</Card.Title>
       <Card.Text>
@@ -79,7 +79,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1496347646636-ea47f7d6b37b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
       <Card.Title>Weather Dashboard</Card.Title>
       <Card.Text>
@@ -97,7 +97,7 @@ function Portfolio () {
 <br></br>
 <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI0MX0&auto=format&fit=crop&w=1353&q=80" />
     <Card.Body>
       <Card.Title>Electric Gallery</Card.Title>
       <Card.Text>
@@ -110,7 +110,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1503642551022-c011aafb3c88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
       <Card.Title>Good ReadMe Generator</Card.Title>
       <Card.Text>
@@ -123,7 +123,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
       <Card.Title>Employee Tracker</Card.Title>
       <Card.Text>
@@ -141,7 +141,7 @@ function Portfolio () {
 <br></br>
 <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1431794062232-2a99a5431c6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
       <Card.Title>Note Taker</Card.Title>
       <Card.Text>
@@ -154,7 +154,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1442508748335-fde9c3f58fd9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80" />
     <Card.Body>
       <Card.Title>Employee Management System</Card.Title>
       <Card.Text>
@@ -167,7 +167,7 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1494247622028-9a5bbfbf529a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80" />
     <Card.Body>
       <Card.Title>Burger Logger</Card.Title>
       <Card.Text>
@@ -185,7 +185,7 @@ function Portfolio () {
 <br></br>
 <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1500531359996-c89a0e63e49c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1349&q=80" />
     <Card.Body>
       <Card.Title>Unheard</Card.Title>
       <Card.Text>
@@ -198,12 +198,11 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
-      <Card.Title>TBA</Card.Title>
+      <Card.Title>Coming Soon</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+        
       </Card.Text>
     </Card.Body>
     <Card.Footer>
@@ -212,13 +211,11 @@ function Portfolio () {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://images.unsplash.com/photo-1512138073931-b0ca6edf55e2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
     <Card.Body>
-      <Card.Title>TBA</Card.Title>
+      <Card.Title>Coming Soon</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
+        
       </Card.Text>
     </Card.Body>
     <Card.Footer>
